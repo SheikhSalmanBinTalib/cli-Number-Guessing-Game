@@ -1,0 +1,23 @@
+{
+  "name": "@ssbt/number-guessing-game",
+  "version": "2.0.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "@ssbt/number-guessing-game": "^2.0.2",
+    "inquirer": "^9.2.20"
+  }
+}
